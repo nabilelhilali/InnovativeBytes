@@ -1,0 +1,107 @@
+{
+    "Ads": {
+     	"enableAds": true,
+        "bannerAdType": "admob",
+        "interstitialAdType": "admob",
+        "nativeAdType": "admob",
+        "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
+        "admobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "admobNativeId": "ca-app-pub-3940256099942544/1044960115",
+        "facebookBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebookInterstitialId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebookNativeId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "interstitialClickActivities": 6,
+        "interstitialClickList": 6
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "Introduction to Reserved Clothing Store",
+                "image": "https://m-imag.web.app/reserved/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "Introduction to Reserved Clothing Store /n Welcome to Reserved Clothing Store, a beacon of style and innovation in the fashion world. Known for its unique approach to fashion, Reserved Clothing Store has become a household name, synonymous with quality and trendsetting designs. \n \n The History and Growth of Reserved Clothing Store \n \n Reserved Clothing Store began as a small boutique and has grown into an international fashion empire. Its journey from humble beginnings to a global brand is a testament to its commitment to excellence and innovation. \n \n Sustainability: A Core Value at Reserved Clothing Store \n \n Sustainability is at the heart of Reserved Clothing Store. The brand is committed to eco-friendly practices, ensuring that fashion is both beautiful and responsible.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Exceptional Customer Experience at Reserved",
+                "image": "https://m-imag.web.app/reserved/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "The customer experience at Reserved Clothing Store is unparalleled. From the moment you step into the store, you are treated to a world-class shopping experience. \n \n In-Store Service Excellence \n \n The in-store experience at Reserved Clothing Store is designed to be seamless and enjoyable, with staff who are knowledgeable and attentive. \n \n The Online Shopping Revolution \n \n Reserved Clothing Store's online presence is a testament to its adaptability and forward-thinking approach. The online store offers a convenient and user-friendly shopping experience.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Technology and Innovation in Retail",
+                "image": "https://m-imag.web.app/reserved/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "Reserved Clothing Store embraces technology and innovation. From the latest in fashion tech to state-of-the-art e-commerce platforms, the brand is at the forefront of the digital revolution in retail. \n \n Cutting-Edge In-Store Technology \n \n E-Commerce Excellence \n \n The e-commerce platform of Reserved Clothing Store is a masterpiece of digital innovation. With easy navigation, detailed product descriptions, and a seamless checkout process, the online store mirrors the brand’s commitment to quality and customer service.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Community Involvement and Social Responsibility",
+                "image": "https://m-imag.web.app/reserved/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "A key aspect of Reserved Clothing Store's ethos is its commitment to community and social responsibility. The brand is actively involved in various charitable initiatives and promotes ethical fashion. \n \n Charitable Initiatives and Community Engagement \n \n Reserved Clothing Store believes in giving back to the community. Through various initiatives and partnerships, the brand supports causes that align with its values, creating a positive impact on society. \n \n Ethical Fashion and Social Impact \n \n Promoting ethical fashion, Reserved Clothing Store takes a stand against fast fashion by advocating for sustainable and responsible production practices. This commitment to social responsibility has earned the brand respect and admiration from conscious consumers.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "The Future of Reserved Clothing Store",
+                "image": "https://m-imag.web.app/reserved/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "As Reserved Clothing Store looks to the future, it continues to innovate and inspire. The brand is constantly exploring new trends, technologies, and strategies to maintain its position as a leader in the fashion industry. \n \n Upcoming Fashion Trends \n \n Reserved Clothing Store is always one step ahead in forecasting and setting fashion trends. From runway inspirations to street style, the brand is adept at translating high fashion into wearable art. \n \n Expansion and New Market Strategies \n \n The brand's future includes strategic expansion into new markets and further enhancement of its digital presence. Reserved Clothing Store aims to reach more fashion enthusiasts worldwide while maintaining its commitment to quality and sustainability.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Marketing Strategies and Brand Presence",
+                "image": "https://m-imag.web.app/reserved/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Reserved Clothing Store's marketing strategies are as dynamic as its fashion lines. The brand has mastered the art of connecting with its audience, both online and offline. \n \n Digital Marketing and Social Media Influence \n \n Through savvy digital marketing and a strong social media presence, Reserved Clothing Store has built a loyal following. Engaging content, influencer collaborations, and targeted campaigns keep the brand in the spotlight. \n \n Global Brand Expansion \n \n Reserved Clothing Store's expansion into the global market is a story of strategic growth and adaptation. By understanding and respecting diverse fashion sensibilities, the brand has successfully established its presence in numerous countries.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Conclusion",
+                "image": "https://m-imag.web.app/reserved/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Reserved Clothing Store is more than just a fashion retailer; it is a trendsetter and a pioneer in the industry. With its unique blend of style, sustainability, and innovation, the brand continues to captivate and inspire fashion enthusiasts around the world. As Reserved Clothing Store moves forward, it remains committed to delivering exceptional fashion experiences, both in-store and online.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
